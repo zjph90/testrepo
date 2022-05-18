@@ -27,4 +27,7 @@ graph TD
     AUM_MV_SQM --> RM_ACCOUNTS_SQM:::sql_macro
     RM_ACCOUNTS_SQM --> tabs["ODS:TRADING_ACCOUNTS+TA_CUST_LINK_TA_FEED+CUSTOMERS"]:::table
     click AUM_TABLE_ORDS_SQM "https://github.com/cmctechnology/alpha-data/blob/master/sql_macros/aum_table_ords_sqm.sql"
+    click AUM_MV_SQM "https://github.com/cmctechnology/alpha-data/blob/master/sql_macros/aum_mv_sqm.sql"
+    click AUM_MV1 "https://github.com/cmctechnology/alpha-data/tree/master/mviews/AUM_MV1"
+    click RM_ACCOUNTS_SQM "https://github.com/cmctechnology/alpha-data/blob/master/sql_macros/rm_accounts_sqm.sql"    
 ```
