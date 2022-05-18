@@ -10,8 +10,8 @@ graph TD
     classDef ords fill:#803377
     ORDS:::ords
     sqlm["SQL Macro"]:::sql_macro
-    table["Table"]:::table
     mview["Mat View"]:::mview
+    table["Table"]:::table
 ```
 
 ## AUM Table
