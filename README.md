@@ -11,7 +11,7 @@ graph TD
     AUM_MV_SQM --> AUM_MV1:::mview
     AUM_MV_SQM --> RM_ACCOUNTS_SQM:::sql_macro
     RM_ACCOUNTS_SQM --> tabs["ODS:TRADING_ACCOUNTS+TA_CUST_LINK_TA_FEED+CUSTOMERS"]:::table
-    click AUM_MV1 "./other.md"
+    click AUM_MV1 "/../.././other.md"
 ```
 
 ```mermaid
